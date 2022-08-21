@@ -3,7 +3,7 @@
 </p>
 
 
-🙋🏾‍♀️ Hi, I'm currently a student of a JavaScript Backend Developers at {reprograma} and People & Culture Educator. I create awesome code to reprogramming the world. Yes, we can do it. And we achieved more than 700 women, reaching more than 99 companies in the event called 'Speed Hiring' to fullfilment the gap of women in Tech career. I'm also a enthusiatic Camunda BPMN.
+🙋🏾‍♀️ Hi, I'm currently a student of JavaScript Boot camp for Back-end Developers at {reprograma} and a People & Culture Educator too. I create awesome code to reprogramming the world. Yes, we can do it. And we achieved more than 700 women, reaching more than 99 companies in the event called 'Speed Hiring' to fulfillment the gap of women in Tech career. I'm also a Camunda BPM enthusiast.
 
 - 🔭 I’m currently working on creating my Backend Developer Portfolio
 - 🌱 I’m currently learning **about how to improve my tech skills**
@@ -44,4 +44,3 @@
 <a href="https://linkedin.com/in/elisangela-c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elisangela-c" height="30" width="40" /></a>
 <a href="https://instagram.com/elis__brasil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elis__brasil" height="30" width="40" /></a>
 <a href="https://medium.com/@elisangelamanuel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@elisangelamanuel" height="30" width="40" /></a>
-
