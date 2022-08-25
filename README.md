@@ -18,7 +18,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-- [Qual é a diferença entre biblioteca e framework na prática?](https://github.com/elisangelamanuel/semana1-GitEGithub)
+- [Qual é a diferença entre biblioteca e framework na prática?](https://github.com/elisangelamanuel/semana1-GitEGithub#qual-%C3%A9-a-diferen%C3%A7a-entre-biblioteca-e-framework-na-pr%C3%A1tica)
+- [Por que este README é diferente de qualquer outro README que você já leu?](https://github.com/elisangelamanuel/semana2-js-logica-I#por-que-este-readme-%C3%A9-diferente-de-qualquer-outro-readme-que-voc%C3%AA-j%C3%A1-leu)
 
 <!-- BLOG-POST-LIST:END -->
 
